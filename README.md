@@ -1,8 +1,9 @@
 # Machine Learning using R
 Aproach to Machine Learning using R for beginners
+<hr>
 
 [Download R](https://cran.r-project.org/bin/windows/base/)
-<hr>
+<br>
 [Download RStudio](https://rstudio.com/)
 
 
